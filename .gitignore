@@ -18,6 +18,7 @@ __pycache__/
 .env.development
 .env.test
 .env.production
+C:\Users\kevin\repos\testing1\uv.lock
 
 # IDE - VSCode
 .vscode/*
@@ -89,4 +90,8 @@ coverage/
 .eslintcache
 
 # Optional REPL history
-.node_repl_history 
+.node_repl_history
+
+
+C:\Users\kevin\repos\testing1\lightrag_data
+C:\Users\kevin\repos\LightRAG

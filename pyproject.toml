@@ -1,0 +1,14 @@
+[project]
+name = "testing1"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "lightrag>=0.0.1",
+    "neo4j>=5.15.0",
+    "openai>=1.16.0",
+    "pocketflow>=0.0.1",
+    "python-dotenv>=1.0.0",
+    "streamlit>=1.35.0",
+]
